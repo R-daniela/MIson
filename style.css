@@ -1,0 +1,20 @@
+/* .nav{
+    margin-left:80%;
+} */
+.uno-contactanos{
+    background-color:#d1a3845b;
+}
+.boton{
+    background-color: rgb(116, 43, 226);
+    height:50px;
+    width:150px;
+    border-radius:15px;
+    text-align: center;
+    padding-top:12px;
+    font-size:20px;
+    color:white;
+}
+.star{
+    color:rgba(255, 204, 0, 0.898);
+}
+
